@@ -1,0 +1,7 @@
+console.log(7 / 0.0000001)
+console.log("10" / 5)
+console.log("Show" / 5)
+console.log(0.1 + 0.7)
+console.log((0.1 + 0.7).toFixed(1))
+//console.log(10.toString())
+console.log((10.456).toFixed(2))
